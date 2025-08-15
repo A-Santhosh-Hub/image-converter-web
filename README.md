@@ -37,7 +37,7 @@ __pycache__/
 Your final project folder should now look like this:
 
 ![image alt](https://github.com/A-Santhosh-Hub/image-converter-web/blob/main/formate.png)
-(Note: The uploads/ folder doesn't need to be uploaded, as the server will create it).
+
 
 ## Step 2: Push Your Project to GitHub
 If you don't have a GitHub account, sign up for a free one here.
