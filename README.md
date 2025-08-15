@@ -1,5 +1,5 @@
 # image-converter-web
-Image Converter ![image alt](https://github.com/A-Santhosh-Hub/image-converter-web/blob/main/Image%20Converter.png)
+![image alt](https://github.com/A-Santhosh-Hub/image-converter-web/blob/main/Image%20Converter.png)
 
 
 Overview of the Process
