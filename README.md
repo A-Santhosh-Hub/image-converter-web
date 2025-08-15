@@ -36,15 +36,7 @@ __pycache__/
 *.pyc
 Your final project folder should now look like this:
 
-image_converter_web/
-├── app.py
-├── converter_backend.py
-├── requirements.txt         # <-- New file
-├── .gitignore               # <-- New file
-├── templates/
-│   └── index.html
-└── static/
-    └── style.css
+![image alt](https://github.com/A-Santhosh-Hub/image-converter-web/blob/main/formate.png)
 (Note: The uploads/ folder doesn't need to be uploaded, as the server will create it).
 
 ## Step 2: Push Your Project to GitHub
